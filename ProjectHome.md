@@ -1,0 +1,1 @@
+Camlistore is an open source personal storage system and we would like to take it beyond.
